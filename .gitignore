@@ -1,0 +1,46 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore build outputs
+dist/
+build/
+
+# Ignore Docker-related files
+docker-compose.override.yml
+*.bak
+
+# Ignore IDE settings
+.idea/
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore coverage reports
+coverage/
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Java compiled files
+*.class
+
+# Ignore Go binaries
+*.exe
+*.out
+*.test
